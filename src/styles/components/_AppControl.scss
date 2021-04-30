@@ -1,0 +1,20 @@
+.AppControls__Size {
+  display: inline-flex;
+  flex-flow: row nowrap;
+  align-items: center;
+}
+
+.Randomize__btn {
+  background-color: var(--amber);
+  color: white;
+  padding: 10px 20px;
+  border-radius: 2px;
+  outline: none;
+  border: none;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+.toggle__btn {
+  margin-left: 1rem;
+  margin-right: 1rem;
+}
