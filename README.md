@@ -3,15 +3,15 @@
     <img width=100% src="./banner.png">
   </a>
 </p>
-<p align="center">
 
 [![Built with Love](https://forthebadge.com/images/badges/built-with-love.svg)](https://www.npmjs.com/~jasbirrajrana)[](https://www.npmjs.com/~jasbirrajrana) [![Jasbir Rajrana](https://forthebadge.com/images/badges/contains-tasty-spaghetti-code.svg)](https://www.linkedin.com/in/jasbirrajrana/)![](https://forthebadge.com/images/badges/powered-by-oxygen.svg)
 
-</p>
-###Light Mode
+### Light Mode
+
 <img src="./light.png" alt="Light mode"/>
 
-###Dark Mode 😍
+### Dark Mode 😍
+
 <img src="./dark.png" alt="dark-mode"/>
 
 ## Want to contribute?
