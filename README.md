@@ -4,7 +4,7 @@
   </a>
 </p>
 
-[![Built with Love](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/jasbirrajrana) [![forthebadge](https://forthebadge.com/images/badges/powered-by-water.svg)](https://github.com/jasbirrajrana) [![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://github.com/jasbirrajrana)
+[![Built with Love](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/jasbirrajrana) [![forthebadge](https://forthebadge.com/images/badges/powered-by-water.svg)](https://github.com/jasbirrajrana) [![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://github.com/jasbirrajrana) [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](http://javascript.info/)
 
 ### Light Mode
 
