@@ -10,8 +10,10 @@
 </p>
 ###Light Mode
 <img src="./light.png" alt="Light mode"/>
-###Dark Mode
+
+###Dark Mode 😍
 <img src="./dark.png" alt="dark-mode"/>
+
 ## Want to contribute?
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/jasbirrajrana/sortVisualizer/issues) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/jasbirrajrana/sortVisualizer/pulls)
