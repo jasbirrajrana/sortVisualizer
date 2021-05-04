@@ -4,6 +4,7 @@ import AppControls from "./components/AppControls";
 import TopBar from "./components/TopBar";
 import SortVisualizer from "./components/SortVisualizer";
 import AppDrawer from "./components/AppDrawer";
+import { initGA, PageView } from "./gTracking/index";
 import Footer from "./components/Footer";
 
 import BubbleSort, {
@@ -73,8 +74,9 @@ class App extends Component {
 
   componentDidMount() {
     this.generateRandomArray();
+    initGA(process.env.REACT_APP_GOOGLE_TRACKING_ID);
+    PageView();
   }
-
   generateRandomArray = () => {
     // Generate pseudo-random number between 1 and max
     function getRandomInt(max) {
