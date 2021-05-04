@@ -6,8 +6,8 @@ export const newTrace = (array) => {
       groupB: [],
       groupC: [],
       groupD: [],
-      sortedIndices: []
-    }
+      sortedIndices: [],
+    },
   ];
 };
 
@@ -26,7 +26,7 @@ export const addToTrace = (
     groupB: [...groupB],
     groupC: [...groupC],
     groupD: [...groupD],
-    sortedIndices: [...sortedIndices]
+    sortedIndices: [...sortedIndices],
   });
 };
 
@@ -34,6 +34,7 @@ export const lastSorted = (trace) => {
   return trace[trace.length - 1].sortedIndices;
 };
 
+// swap function
 export const swap = (array, i, j) => {
   const tmp = array[i];
   array[i] = array[j];

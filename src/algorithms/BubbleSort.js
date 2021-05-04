@@ -16,7 +16,6 @@ const BubbleSort = (nums) => {
         addToTrace(trace, nums, lastSorted(trace), [], [j, j + 1]);
       }
     }
-
     // Visualize: final value is sorted
     addToTrace(trace, nums, [...lastSorted(trace), nums.length - 1 - i]);
   }
@@ -25,6 +24,7 @@ const BubbleSort = (nums) => {
 };
 
 export const BubbleSortKey = createKey("Comparing", "Swapping");
+
 export const BubbleSortDesc = {
   title: "Bubble Sort",
   worstCase: (
